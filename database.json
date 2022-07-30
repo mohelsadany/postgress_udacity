@@ -1,0 +1,16 @@
+{
+  "dev": {
+    "driver": "pg",
+    "host": "127.0.0.1",
+    "database": "shopping",
+    "user": "shopping_user",
+    "password": "password123"
+  },
+  "test": {
+    "driver": "pg",
+    "host": "127.0.0.1",
+    "database": "shopping_test",
+    "user": "shopping_user_test",
+    "password": "password123"
+  }
+}
